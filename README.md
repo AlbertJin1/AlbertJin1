@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5Q8zX8C.png" alt="Assassin's Creed II Logo" width="300"/>
+  <img src="https://picsum.photos/300/100?random=1" alt="Assassin's Creed II Placeholder Logo" width="300"/>
 </p>
 
 <h1 align="center" style="color: #8B0000;">Benvenuto, Fratello</h1>
@@ -36,6 +36,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8XvZ9kH.gif" alt="Ezio Leap of Faith" width="200"/>
+  <img src="https://picsum.photos/200/150?random=2" alt="Ezio Leap of Faith Placeholder" width="200"/>
 </p>
 <p align="center"><em>"Requiescat in pace."</em></p>
