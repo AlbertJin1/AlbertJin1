@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Assassins_creed_logo.png" alt="Assassin's Creed II Placeholder Logo" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Assassins_creed_logo.png" alt="Assassin's Creed II Placeholder Logo" width="125"/>
 </p>
 
 <h1 align="center" style="color: #8B0000;">Benvenuto, Fratello</h1>
