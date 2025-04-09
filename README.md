@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hhttps://www.pngplay.com/wp-content/uploads/10/Assassins-Creed-Logo-Background-PNG-Clip-Art.png" alt="Assassin's Creed II Placeholder Logo" width="150"/>
+  <img src="https://www.pngplay.com/wp-content/uploads/10/Assassins-Creed-Logo-Background-PNG-Clip-Art.png" alt="Assassin's Creed II Placeholder Logo" width="150"/>
 </p>
 
 <h1 align="center" style="color: #8B0000;">Benvenuto, Fratello</h1>
