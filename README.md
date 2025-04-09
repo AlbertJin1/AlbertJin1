@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://picsum.photos/300/100?random=1" alt="Assassin's Creed II Placeholder Logo" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Assassins_creed_logo.png" alt="Assassin's Creed II Placeholder Logo" width="300"/>
 </p>
 
 <h1 align="center" style="color: #8B0000;">Benvenuto, Fratello</h1>
@@ -28,7 +28,7 @@
 
 ### The Codex
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/jessie-albert-regualos-3a4765340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -36,6 +36,6 @@
 ---
 
 <p align="center">
-  <img src="https://picsum.photos/200/150?random=2" alt="Ezio Leap of Faith Placeholder" width="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fezio-assassins-creed&psig=AOvVaw36wiAr7G1PbRcLrjfJZU1Q&ust=1744275723668000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDw0cHLyowDFQAAAAAdAAAAABAR" alt="Ezio Leap of Faith Placeholder" width="200"/>
 </p>
 <p align="center"><em>"Requiescat in pace."</em></p>
