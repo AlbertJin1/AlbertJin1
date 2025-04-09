@@ -36,6 +36,6 @@
 ---
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fezio-assassins-creed&psig=AOvVaw36wiAr7G1PbRcLrjfJZU1Q&ust=1744275723668000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDw0cHLyowDFQAAAAAdAAAAABAR" alt="Ezio Leap of Faith Placeholder" width="200"/>
+  <img src="https://media1.giphy.com/media/2y4ajXjCJkXGU/200w.gif?cid=6c09b952rygznurg00jrermq7zoyea6j14rt2kro7bog6x4w&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Ezio Leap of Faith Placeholder" width="200"/>
 </p>
 <p align="center"><em>"Requiescat in pace."</em></p>
