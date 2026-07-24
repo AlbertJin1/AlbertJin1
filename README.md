@@ -40,7 +40,8 @@ I am a technician of circuits and steel — a full-stack developer who moves bet
   <br/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
@@ -48,17 +49,40 @@ I am a technician of circuits and steel — a full-stack developer who moves bet
 
 ## Memories of the Animus — GitHub Activity
 
+> Cards are served by `github-stats-extended.vercel.app`, the actively-maintained successor to the original `github-readme-stats` project. These reflect **public** repo data — private commit counts aren't available without self-hosting with a personal token, though your private activity now shows in the contribution calendar below since private contributions are included on your profile.
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlbertJin1&show_icons=true&hide_title=false&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertJin1&layout=compact&hide_border=true&title_color=8B0000&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+  <a href="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertJin1&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8B9096" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AlbertJin1&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&dates=8B9096" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertJin1&bg_color=0D1117&color=8B0000&line=8B0000&point=c9d1d9&hide_border=true&area=true" alt="Commit Activity Graph"/>
+  <img src="https://ghchart.rshah.org/8B0000/AlbertJin1" alt="AlbertJin1's GitHub Contribution Calendar" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlbertJin1/CODE-SCRIPTS">
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=AlbertJin1&repo=CODE-SCRIPTS&theme=dark" alt="CODE-SCRIPTS repo card"/>
+  </a>
+  <a href="https://github.com/AlbertJin1/my-portfolio">
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=AlbertJin1&repo=my-portfolio&theme=dark" alt="my-portfolio repo card"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AlbertJin1/kioscorp-final">
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=AlbertJin1&repo=kioscorp-final&theme=dark" alt="kioscorp-final repo card"/>
+  </a>
+  <a href="https://github.com/AlbertJin1/Cooking-Ina-Web">
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=AlbertJin1&repo=Cooking-Ina-Web&theme=dark" alt="Cooking-Ina-Web repo card"/>
+  </a>
 </p>
 
 ---
