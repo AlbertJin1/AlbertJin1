@@ -53,10 +53,13 @@ I am a technician of circuits and steel — a full-stack developer who moves bet
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/>
+    <img height="200" src="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark" alt="Top Languages"/>
+    <img height="320" src="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark" alt="Top Languages"/>
   </a>
 </p>
 
