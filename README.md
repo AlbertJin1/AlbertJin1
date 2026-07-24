@@ -49,8 +49,6 @@ I am a technician of circuits and steel — a full-stack developer who moves bet
 
 ## Memories of the Animus — GitHub Activity
 
-> Cards are served by `github-stats-extended.vercel.app`, the actively-maintained successor to the original `github-readme-stats` project. These reflect **public** repo data — private commit counts aren't available without self-hosting with a personal token, though your private activity now shows in the contribution calendar below since private contributions are included on your profile.
-
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark">
     <img height="200" src="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/>
