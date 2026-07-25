@@ -49,21 +49,24 @@ I am a technician of circuits and steel — a full-stack developer who moves bet
 
 ## Memories of the Animus — GitHub Activity
 
-<p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark">
-    <img height="200" src="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/>
-  </a>
-</p>
+> Cards are served by `github-stats-extended.vercel.app`, the actively-maintained successor to the original `github-readme-stats` project. These reflect **public** repo data — private commit counts aren't available without self-hosting with a personal token, though your private activity now shows in the contribution calendar below since private contributions are included on your profile.
 
-<p align="center">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark">
-    <img height="320" src="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AlbertJin1&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&dates=8B9096" alt="GitHub Streak"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark">
+        <img height="195" src="https://github-stats-extended.vercel.app/api?username=AlbertJin1&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/>
+      </a>
+      <br/>
+      <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=AlbertJin1&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&dates=8B9096" alt="GitHub Streak"/>
+    </td>
+    <td align="center">
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark">
+        <img height="410" src="https://github-stats-extended.vercel.app/api/top-langs?username=AlbertJin1&langs_count=8&theme=dark" alt="Most Used Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/8B0000/AlbertJin1" alt="AlbertJin1's GitHub Contribution Calendar" width="100%"/>
