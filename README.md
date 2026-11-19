@@ -35,7 +35,7 @@ specialty:
   - React & React Native interfaces
   - Django / Node / PHP / C# backends
   - Database-backed systems & APIs
-  - Desktop tooling in C#
+  - Desktop apps with Electron & C# / .NET
 platforms: [Supabase, Firebase, Vercel, zrok]
 doctrine:  "Ship clean. Leave no trace of bugs."
 status:    open_to_collaboration
@@ -52,6 +52,7 @@ A technician of circuits and steel — I move between **frontend**, **backend**,
 
 - Full-stack web applications
 - REST APIs & data-heavy systems
+- Desktop apps: browsers, download & PDF tools
 - Kiosk / POS / dashboard platforms
 - Deploying & exposing apps securely
 
@@ -70,18 +71,20 @@ A technician of circuits and steel — I move between **frontend**, **backend**,
     <td align="center" width="50%">
       <br/>
       <b>◆ INTERFACE</b><br/>
-      <sub>React · React Native · JavaScript · HTML · CSS</sub>
+      <sub>React · React Native · JavaScript · HTML · CSS · Tailwind · Vite</sub>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
       <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
       <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/>
       <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
+      <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite"/>
       <br/><br/>
     </td>
     <td align="center" width="50%">
       <br/>
-      <b>◆ CORE LOGIC</b><br/>
-      <sub>Django · Python · Node.js · PHP · C# / .NET</sub>
+      <b>◆ CORE &amp; DESKTOP</b><br/>
+      <sub>Django · Python · Node.js · PHP · C# / .NET · Electron</sub>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django"/>
       <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"/>
@@ -89,6 +92,7 @@ A technician of circuits and steel — I move between **frontend**, **backend**,
       <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/>
       <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#"/>
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET"/>
+      <img src="https://skillicons.dev/icons?i=electron" width="48" alt="Electron"/>
       <br/><br/>
     </td>
   </tr>
@@ -163,18 +167,22 @@ A technician of circuits and steel — I move between **frontend**, **backend**,
 
 <div align="center">
 
-<a href="https://github.com/AlbertJin1/kioscorp-final"><img width="49%" src="./assets/cards/kioscorp-final.svg" alt="kioscorp-final"/></a>
+<a href="https://github.com/AlbertJin1/drift-cross"><img width="49%" src="./assets/cards/drift-cross.svg" alt="drift-cross"/></a>
+<a href="https://github.com/AlbertJin1/raijin-download"><img width="49%" src="./assets/cards/raijin-download.svg" alt="raijin-download"/></a>
+<a href="https://github.com/AlbertJin1/flickfetch"><img width="49%" src="./assets/cards/flickfetch.svg" alt="flickfetch"/></a>
+<a href="https://github.com/AlbertJin1/pdfstudio-electron"><img width="49%" src="./assets/cards/pdfstudio-electron.svg" alt="pdfstudio-electron"/></a>
+<a href="https://github.com/AlbertJin1/pdfstudio"><img width="49%" src="./assets/cards/pdfstudio.svg" alt="pdfstudio"/></a>
 <a href="https://github.com/AlbertJin1/CODE-SCRIPTS"><img width="49%" src="./assets/cards/CODE-SCRIPTS.svg" alt="CODE-SCRIPTS"/></a>
-<a href="https://github.com/AlbertJin1/my-portfolio"><img width="49%" src="./assets/cards/my-portfolio.svg" alt="my-portfolio"/></a>
-<a href="https://github.com/AlbertJin1/Cooking-Ina-Web"><img width="49%" src="./assets/cards/Cooking-Ina-Web.svg" alt="Cooking-Ina-Web"/></a>
 
 </div>
 
 ```diff
-+ ACTIVE    kioscorp-final ········· kiosk management system, final release
-+ ACTIVE    my-portfolio ··········· personal developer portfolio
-+ ACTIVE    CODE-SCRIPTS ··········· PDF merger with rating tracker
-! MAINTAIN  kioscorp-dashboard ····· admin dashboard + backend API
++ ACTIVE    drift-cross ············ cross-platform desktop browser
++ ACTIVE    raijin-download ········ segmented download manager
++ ACTIVE    flickfetch ············· yt-dlp + FFmpeg media workspace
++ ACTIVE    pdfstudio-electron ····· PDF Studio 3 (Electron + React)
++ ACTIVE    pdfstudio ·············· PDF Studio 2 (C# / .NET 8)
+! MAINTAIN  kioscorp suite ········· kiosk, POS, dashboard + API
 ```
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -185,26 +193,29 @@ A technician of circuits and steel — I move between **frontend**, **backend**,
 
 | # | Project | Description | Stack | Status |
 |:--:|:--|:--|:--:|:--:|
-| 01 | [**CODE-SCRIPTS**](https://github.com/AlbertJin1/CODE-SCRIPTS) [🔗](https://pdfmerger-rating-tracker.vercel.app) | PDF merger with rating tracker | `TeX` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
-| 02 | [**my-portfolio**](https://github.com/AlbertJin1/my-portfolio) [🔗](https://my-portfolio-three-wheat-97.vercel.app) | Personal developer portfolio | `JavaScript` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
-| 03 | [**kioscorp-final**](https://github.com/AlbertJin1/kioscorp-final) | Kiosk management system — final release | `JavaScript` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
-| 04 | [**bonbon**](https://github.com/AlbertJin1/bonbon) | Web application project | `JavaScript` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
-| 05 | [**kioscorp-dashboard**](https://github.com/AlbertJin1/kioscorp-dashboard) | Admin dashboard for the KiosCorp platform | `JavaScript` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
-| 06 | [**kioscorp_dashboard_backend**](https://github.com/AlbertJin1/kioscorp_dashboard_backend) | Backend API powering the KiosCorp dashboard | `HTML` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
-| 07 | [**Cooking-Ina-Web**](https://github.com/AlbertJin1/Cooking-Ina-Web) [🔗](https://cooking-ina-web.vercel.app) | Recipe and cooking web app | `Web` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
-| 08 | [**Activity-Scenario-Task-Management-System**](https://github.com/AlbertJin1/Activity-Scenario-Task-Management-System--PHP-CRUD-) | PHP CRUD task management system | `PHP` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
+| 01 | [**drift-cross**](https://github.com/AlbertJin1/drift-cross) | Drift — desktop browser for Windows, macOS & Linux with ad/tracker blocking, profiles and MV3 extensions | `Electron` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
+| 02 | [**pdfstudio-electron**](https://github.com/AlbertJin1/pdfstudio-electron) | PDF Studio 3 — portable Windows app with PDF.js rendering and pdf-lib export | `Electron` `React` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
+| 03 | [**raijin-download**](https://github.com/AlbertJin1/raijin-download) | Raijin — download manager with dynamic segmentation and crash-safe resume | `Electron` `React` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
+| 04 | [**flickfetch**](https://github.com/AlbertJin1/flickfetch) | FlickFetch — desktop media workspace powered by yt-dlp and FFmpeg | `Electron` `React` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
+| 05 | [**pdfstudio**](https://github.com/AlbertJin1/pdfstudio) | PDF Studio 2 — merge, reorder, split, edit and convert PDFs with offline OCR | `C#` `.NET 8` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
+| 06 | [**CODE-SCRIPTS**](https://github.com/AlbertJin1/CODE-SCRIPTS) [🔗](https://pdfmerger-rating-tracker.vercel.app) | PDF merger with rating tracker | `TeX` | ![Active](https://img.shields.io/badge/ACTIVE-2EA043?style=flat-square) |
+| 07 | [**my-portfolio**](https://github.com/AlbertJin1/my-portfolio) [🔗](https://my-portfolio-three-wheat-97.vercel.app) | Personal developer portfolio | `JavaScript` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
+| 08 | [**kioscorp-final**](https://github.com/AlbertJin1/kioscorp-final) | Kiosk management system — final release | `JavaScript` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
+| 09 | [**kioscorp-dashboard**](https://github.com/AlbertJin1/kioscorp-dashboard) | Admin dashboard for the KiosCorp platform | `JavaScript` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
+| 10 | [**Cooking-Ina-Web**](https://github.com/AlbertJin1/Cooking-Ina-Web) [🔗](https://cooking-ina-web.vercel.app) | Recipe and cooking web app | `Web` | ![Maintained](https://img.shields.io/badge/MAINTAINED-8B0000?style=flat-square) |
 
 <details>
-<summary><b>🗄️ &nbsp;Decrypt the archive — 17 more repositories</b></summary>
+<summary><b>🗄️ &nbsp;Decrypt the archive — 21 more repositories</b></summary>
 <br/>
 
 | Series | Repositories |
 |:--|:--|
-| **KiosCorp lineage** | [kioscorp-kiosk-v3](https://github.com/AlbertJin1/kioscorp-kiosk-v3) · [kioscorp-kiosk-v2](https://github.com/AlbertJin1/kioscorp-kiosk-v2) · [kioscorp-kiosk](https://github.com/AlbertJin1/kioscorp-kiosk) · [kioscorp-pos](https://github.com/AlbertJin1/kioscorp-pos) |
-| **Cooking series** | [Cooking-Ina](https://github.com/AlbertJin1/Cooking-Ina) · [AmbatuCooks](https://github.com/AlbertJin1/AmbatuCooks) · [resto_trattoria](https://github.com/AlbertJin1/resto_trattoria) <sub>(fork)</sub> |
-| **Apps** | [smartfit](https://github.com/AlbertJin1/smartfit) · [languageapp2](https://github.com/AlbertJin1/languageapp2) · [note2](https://github.com/AlbertJin1/note2) · [VROOM1](https://github.com/AlbertJin1/VROOM1) · [dog](https://github.com/AlbertJin1/dog) |
+| **KiosCorp lineage** | [kioscorp-kiosk-v3](https://github.com/AlbertJin1/kioscorp-kiosk-v3) · [kioscorp-kiosk-v2](https://github.com/AlbertJin1/kioscorp-kiosk-v2) · [kioscorp-kiosk](https://github.com/AlbertJin1/kioscorp-kiosk) · [kioscorp-pos](https://github.com/AlbertJin1/kioscorp-pos) · [kioscorp_dashboard_backend](https://github.com/AlbertJin1/kioscorp_dashboard_backend) |
+| **Cooking series** | [Cooking-Ina](https://github.com/AlbertJin1/Cooking-Ina) · [AmbatuCooks](https://github.com/AlbertJin1/AmbatuCooks) |
+| **Apps** | [bonbon](https://github.com/AlbertJin1/bonbon) · [smartfit](https://github.com/AlbertJin1/smartfit) · [languageapp2](https://github.com/AlbertJin1/languageapp2) · [note2](https://github.com/AlbertJin1/note2) · [VROOM1](https://github.com/AlbertJin1/VROOM1) · [dog](https://github.com/AlbertJin1/dog) |
 | **Auth & APIs** | [RestAPI](https://github.com/AlbertJin1/RestAPI) · [AuthProject](https://github.com/AlbertJin1/AuthProject) · [ProjectLogin](https://github.com/AlbertJin1/ProjectLogin) |
-| **PHP & Data** | [DB-TRANSACTIONS](https://github.com/AlbertJin1/DB-TRANSACTIONS) · [AlbertJin1.github.io](https://github.com/AlbertJin1/AlbertJin1.github.io) |
+| **PHP & Data** | [Activity-Scenario-Task-Management-System](https://github.com/AlbertJin1/Activity-Scenario-Task-Management-System--PHP-CRUD-) · [DB-TRANSACTIONS](https://github.com/AlbertJin1/DB-TRANSACTIONS) · [AlbertJin1.github.io](https://github.com/AlbertJin1/AlbertJin1.github.io) |
+| **Forks** | [github-stats-extended](https://github.com/AlbertJin1/github-stats-extended) · [resto_trattoria](https://github.com/AlbertJin1/resto_trattoria) |
 
 </details>
 
