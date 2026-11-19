@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="48" height="48" role="img" aria-label="SQL Server">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g fill="none" stroke="#CC2927" stroke-width="14" stroke-linecap="round">
+    <ellipse cx="128" cy="72" rx="64" ry="22"/>
+    <path d="M64 72 V184 C64 196 92 206 128 206 C164 206 192 196 192 184 V72"/>
+    <path d="M64 110 C64 122 92 132 128 132 C164 132 192 122 192 110"/>
+    <path d="M64 148 C64 160 92 170 128 170 C164 170 192 160 192 148"/>
+  </g>
+</svg>
